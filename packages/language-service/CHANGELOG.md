@@ -1,5 +1,11 @@
 # @effect/language-service
 
+## 0.83.0
+
+### Minor Changes
+
+- [#693](https://github.com/Effect-TS/language-service/pull/693) [`b5054e3`](https://github.com/Effect-TS/language-service/commit/b5054e3e220b5a062f565ce1843db8150be2f07d) Thanks [@mattiamanzati](https://github.com/mattiamanzati)! - Add setup CLI preset management for diagnostic severities, including preset metadata and preset-aware customization.
+
 ## 0.82.0
 
 ### Minor Changes
